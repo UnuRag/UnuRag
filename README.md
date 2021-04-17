@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnuRag
+- 👋 Hi, I’m @unRag
 - 👀 I’m interested in Occasional Coding
 - 🌱 I’m currently learning Python & Flutter
 
