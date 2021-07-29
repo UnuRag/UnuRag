@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unRag
+- 👋 Hi, I’m @unuRag
 - 👀 I’m interested in Occasional Coding
 - 🌱 I’m currently learning Python
 - ✨ Also learning React
